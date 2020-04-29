@@ -1,4 +1,4 @@
-[<<< Previous](../README.md) | [Next >>>](getting_key.md)
+[<<< Previous](../README.md) | [Next >>>](02-getting_key.md)
 
 # What is an API?
 
@@ -15,4 +15,4 @@ as https://programminghistorian.org/about. A URL consists of a protocol (http://
 
 `REST` (REpresentational State Transfer) is a philosophy that describes some best practices for implementing APIs. APIs designed with some or all of these principles in mind are called REST APIs.
 
-[<<< Previous](../README.md) | [Next >>>](getting_key.md)
+[<<< Previous](../README.md) | [Next >>>](02-getting_key.md)

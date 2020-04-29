@@ -1,4 +1,4 @@
-[<<< Previous](what_is_api.md) | [Next >>>](accessing_api.md)
+[<<< Previous](01-what_is_api.md) | [Next >>>](03-accessing_api.md)
 
 # Getting Your API key
 
@@ -11,4 +11,4 @@
 7\. Nearly done! While still on the "Keys and Access Tokens" page, scroll all the way to the bottom and click the "Create My Access Token" button.  
 8\. Under the "Your Access Token" heading, copy the Access Token and Access Token Secret and put them in the text document. You should now  have four numbers: Consumer Key, Consumer Secret, Access Token Key, and Access Token Secret.  
 
-[<<< Previous](../README.md) | [Next >>>](accessing_api.md)
+[<<< Previous](01-what_is_api.md) | [Next >>>](03-accessing_api.md)

@@ -1,4 +1,4 @@
-[<<< Previous](accessing_api.md) | [Next >>>](scraping_data.md)
+[<<< Previous](03-accessing_api.md) | [Next >>>](05-scraping_data.md)
 
 # Creating a Twitterbot
 
@@ -13,4 +13,4 @@ For example, to tweet out a message, remove the `#` symbols and extra space from
 Once you're comfortable connecting to and using the Twitter API, you can use the twitterbot.py script in this repository to create your own Twitterbot! See the comments in twitterbot.py for more information.
 
 
-[<<< Previous](accessing_api.md) | [Next >>>](scraping_data.md)
+[<<< Previous](03-accessing_api.md) | [Next >>>](05-scraping_data.md)

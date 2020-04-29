@@ -16,12 +16,12 @@ Do not share your API key, secret, or access tokens with anyone, and do not publ
 
 -----
 
-[What is an API?](sections/what_is_api.md)  
-[Getting Your API key](sections/getting_key.md)  
-[Accessing the API](sections/accessing_api.md)  
-[Creating a Twitterbot](sections/creating_twitterbot.md)  
-[Scraping Data Using the Streaming API](sections/scraping_data.md)  
-[Resources](sections/resources.md)  
+[What is an API?](sections/01-what_is_api.md)  
+[Getting Your API key](sections/02-getting_key.md)  
+[Accessing the API](sections/03-accessing_api.md)  
+[Creating a Twitterbot](sections/04-creating_twitterbot.md)  
+[Scraping Data Using the Streaming API](sections/05-scraping_data.md)  
+[Resources](sections/06-resources.md)  
 
 -----
 

@@ -1,4 +1,4 @@
-[<<< Previous](getting_key.md) | [Next >>>](creating_twitterbot.md )
+[<<< Previous](02-getting_key.md) | [Next >>>](04-creating_twitterbot.md )
 
 # Accessing the API
 
@@ -45,4 +45,4 @@ at the bash shell to install the library.
 If you see the name of your Twitter account, everything is working!
 
 
-[<<< Previous](getting_key.md) | [Next >>>](creating_twitterbot.md)
+[<<< Previous](02-getting_key.md) | [Next >>>](04-creating_twitterbot.md)
