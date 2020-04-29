@@ -1,6 +1,6 @@
 # Introduction to the Twitter API
 
-APIs (Application Programming Interfaces) are a structured way for programs to communicate with other programs. A knowledge of APIs allows your programs to communicate with major services such as The New York Times and Twitter and collect data from organizations such as the Library of Congress. 
+APIs (Application Programming Interfaces) are a structured way for programs to communicate with other programs. A knowledge of APIs allows your programs to communicate with major services such as _The New York Times_ and Twitter and collect data from organizations such as the Library of Congress. 
 
 By the end of this workshop, participants will:
 
@@ -31,6 +31,3 @@ Based on previous work by Patrick Smyth
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 [Digital Research Institute (DRI) Curriculum](http://purl.org/dc/terms/) by [Graduate Center Digital Initiatives](https://gcdi.commons.gc.cuny.edu/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <https://github.com/DHRI-Curriculum>. When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
-
-
-
